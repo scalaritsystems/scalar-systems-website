@@ -1,0 +1,1 @@
+export default function Header(){return <header className='border-b'><div className='container-custom py-4 flex justify-between'><div><h1 className='font-bold'>Scalar Systems</h1><p className='text-sm'>Technology. Simplified. Scaled.</p></div><a href='/contact' className='btn-primary'>Get a Quote</a></div></header>}
