@@ -1,0 +1,7 @@
+{
+  "name": "scalar-systems",
+  "compatibility_date": "2025-09-09",
+  "assets": {
+    "directory": "./public"
+  }
+}
