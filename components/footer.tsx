@@ -1,1 +1,0 @@
-export default function Footer(){return <footer className='border-t mt-20'><div className='container-custom py-10'><p>© Scalar Systems</p><p>Shrewsbury, Shropshire, United Kingdom</p></div></footer>}
