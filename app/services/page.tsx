@@ -1,3 +1,0 @@
-import Header from '@/components/header';
-import Footer from '@/components/footer';
-export default function ServicesPage(){return (<><Header/><main className='container-custom py-20'><h1 className='text-5xl font-bold'>Our Services</h1><p className='mt-4 text-slate-600'>Technology services built around your business.</p><div className='grid gap-6 mt-10 md:grid-cols-2'><div className='card'><h2>Website Design & Development</h2></div><div className='card'><h2>Online Presence Management</h2></div><div className='card'><h2>IT Support & Helpdesk</h2></div><div className='card'><h2>Infrastructure Management</h2></div><div className='card'><h2>Software Development</h2></div><div className='card'><h2>Automation & Integration</h2></div></div></main><Footer/></>)}
